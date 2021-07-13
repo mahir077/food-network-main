@@ -57,3 +57,18 @@ p{ font-family: 'Ubuntu', sans-serif;
 #paragraph{padding-left:20%;
 
 }
+.contact{ font-family: 'Ubuntu', sans-serif;
+    color:white;
+    background: linear-gradient(dodgerblue, blue);
+    font-size: larger;
+   padding: 20px 20px;
+   margin-left: 20%;
+   margin-top: 8%;
+   
+   display:inline-block;
+   border-radius:40px;
+   font-weight: 500;
+          text-decoration: none;
+          background-color: dodgerblue;
+
+}
