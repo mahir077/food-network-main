@@ -1,0 +1,59 @@
+h1
+{font-family: 'Ubuntu', sans-serif;
+font-size:38px;
+
+}
+p{ font-family: 'Ubuntu', sans-serif;
+             font-size: 20px;
+             
+}
+.font-color{ color:dodgerblue;
+
+}
+.first {display: flex;
+         padding-left: 3% ;
+
+}
+.intro-part{ padding-left: 2%;
+             padding-top: 2%;
+            
+}
+.intro-part img{ height: 72%;
+                 width: 72%;
+                 padding-left: 15%;             
+
+}
+.font-style{ text-decoration: none;
+            font-family: 'Ubuntu', sans-serif;
+              color:white;
+              background: linear-gradient(dodgerblue, blue);
+              font-size: larger;
+             padding: 20px 20px;
+             display: inline-block;
+             border-radius:40px;
+             font-weight: 500;
+
+}
+.image-part img{ height: 72%;
+    width: 72%;
+    padding-left: 15%;
+
+}
+.second-part{ background-image: url(images/shapes/Frame\ 57.jpg);
+             
+              
+              
+
+}
+.second{display: flex;
+    padding-left: 5% ;
+    padding-right: 5%;
+
+}
+#header{ padding-left: 20%;
+         padding-top: 20%;
+
+}
+#paragraph{padding-left:20%;
+
+}
