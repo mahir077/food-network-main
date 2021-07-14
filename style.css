@@ -93,8 +93,7 @@ h2{font-family: 'Ubuntu', sans-serif;
 
 }
 .final-stage{
-            margin-bottom: 5%;
-            background-image:url(images/shapes/istockphoto-1226436845-170667a.jpg);
+            background-color:whitesmoke;
             
 }
 .full-box{ display: flex;
@@ -160,7 +159,8 @@ h2{font-family: 'Ubuntu', sans-serif;
 }
 .channel-likes{ display:flex;
                 width:20%;
-                border-style:none 10px black;
+                border-style:none 50px;
+                border-color: grey;
                 margin-left: 6%;
                 margin-top: 10%;
                 margin-right: 7%;
@@ -170,8 +170,7 @@ h2{font-family: 'Ubuntu', sans-serif;
                 border-radius: 30px;
                 padding: 20px 20px 20px;
                 background-color: white;
-                
-                box-shadow: 0 1px 0 0 gray;
+                box-shadow: 0 0 1px 0 gray;
 
 }
 .youtube{ margin-left: 15%;
@@ -186,8 +185,10 @@ h2{font-family: 'Ubuntu', sans-serif;
 }
 .bottom-part{ background-color:dimgray;
               text-align: center;
-              padding-top: 3%;
-              padding-bottom: 10%;
+              margin-top: 10%;
+              padding-top: 1%;
+              padding-bottom: 7%;
+              
               
 
 }
