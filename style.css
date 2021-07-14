@@ -25,13 +25,18 @@ p{ font-family: 'Ubuntu', sans-serif;
 }
 .font-style{ text-decoration: none;
             font-family: 'Ubuntu', sans-serif;
+            height: 4%;
+            width: 35%;
+            text-align: center;
               color:white;
-              background: linear-gradient(dodgerblue, blue);
-              font-size: larger;
-             padding: 20px 20px;
-             display: inline-block;
+              background: linear-gradient(to right, dodgerblue, blue);
+              font-size: large;
+             padding: 20px 40px;
+             margin-top: 10%;
+             margin-left: 2%;
+             display:flex;
              border-radius:40px;
-             font-weight: 500;
+             font-weight: 300;
 
 }
 .image-part img{ height: 72%;
@@ -57,18 +62,17 @@ p{ font-family: 'Ubuntu', sans-serif;
 #paragraph{padding-left:20%;
 
 }
-.contact{ font-family: 'Ubuntu', sans-serif;
-    color:white;
-    background: linear-gradient(dodgerblue, blue);
-    font-size: larger;
-   padding: 20px 20px;
-   margin-left: 20%;
-   margin-top: 8%;
-   
-   display:inline-block;
-   border-radius:40px;
-   font-weight: 500;
-          text-decoration: none;
-          background-color: dodgerblue;
-
+.contact{ text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    height: 4%;
+    width: 15%;
+     color:white;
+      background: linear-gradient(to right, dodgerblue, blue);
+      font-size: large;
+     padding: 20px 40px;
+     margin-top: 10%;
+     margin-left: 19%;
+             display:flex;
+             border-radius:40px;
+             font-weight: 300;
 }
