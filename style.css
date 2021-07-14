@@ -1,17 +1,24 @@
 h1
 {font-family: 'Ubuntu', sans-serif;
 font-size:38px;
+display: flex;
 
 }
+    
 p{ font-family: 'Ubuntu', sans-serif;
              font-size: 20px;
              
 }
+h2{font-family: 'Ubuntu', sans-serif;
+    font-size:28px;
+
+}
 .font-color{ color:dodgerblue;
 
 }
-.first {display: flex;
+.first {display:flex;
          padding-left: 3% ;
+         
 
 }
 .intro-part{ padding-left: 2%;
@@ -27,7 +34,7 @@ p{ font-family: 'Ubuntu', sans-serif;
             font-family: 'Ubuntu', sans-serif;
             height: 4%;
             width: 35%;
-            text-align: center;
+            text-align:left;
               color:white;
               background: linear-gradient(to right, dodgerblue, blue);
               font-size: large;
@@ -53,6 +60,7 @@ p{ font-family: 'Ubuntu', sans-serif;
 .second{display: flex;
     padding-left: 5% ;
     padding-right: 5%;
+    
 
 }
 #header{ padding-left: 20%;
@@ -75,4 +83,97 @@ p{ font-family: 'Ubuntu', sans-serif;
              display:flex;
              border-radius:40px;
              font-weight: 300;
+}
+.third-part{ text-align: center;
+    margin-top: 8%;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+.delivery{ color:red;
+
+}
+.final-stage{
+            margin-bottom: 5%;
+            background-image:url(images/shapes/istockphoto-1226436845-170667a.jpg);
+
+}
+.full-box{ display: flex;
+           margin-left: 1%;
+           margin-right: 1%;
+
+}
+.Beef-Latoos{
+    border-style:none 5px black;
+    margin-left: 5%;
+    margin-top: 2%;
+    text-align:left;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px 20px 20px;
+
+  
+  background-color: white;
+  box-shadow: 0 0 1px 0 gray;
+
+}
+.Beef-Latoos img{ height: 170px;
+    width: 300px;
+    
+
+}
+.corn-nachos{ width:20%;
+    border-style:none 10px black;
+    margin-left: 5%;
+    margin-top: 2%;
+    text-align:left;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px 20px 20px;
+    background-color: white;
+    box-shadow: 0 0 1px 0 gray;
+
+}
+.corn-nachos img{ height: 170px;
+    width: 300px;
+    border-radius: 12px;
+
+}
+.shrimp-tacos{ width:20%;
+    border-style:none 10px black;
+    margin-left: 5%;
+    margin-top: 2%;
+    text-align:left;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px 20px 20px;
+    background-color: white;
+    box-shadow: 0 0 1px 0 gray;
+
+}
+.shrimp-tacos img{ height: 170px;
+    width: 300px;
+    border-radius: 12px;
+
+}
+.channel-likes{ display:flex;
+                text-decoration: gray;
+                width: 80%;
+                border: 1px solid green;
+                padding: 50px;
+                margin: 68px;
+
+}
+.youtube{ margin-left: 15%;
+         
+
+}
+.instagram{ margin-left: 10%;
+
+}
+.dribble{ margin-left: 10%;
+
 }
